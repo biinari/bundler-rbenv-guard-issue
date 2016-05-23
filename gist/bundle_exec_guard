@@ -1,0 +1,12 @@
+13:57:38 - INFO - Guard::RSpec is running
+[0m13:57:38 - INFO - Running all specs
+/home/bill/.rbenv/versions/2.3.1/lib/ruby/2.3.0/rubygems/dependency.rb:319:in `to_specs': Could not find 'bundler' (>= 0.a) among 29 total gem(s) (Gem::LoadError)
+Checked in 'GEM_PATH=/home/bill/git/biinari/bundler-rbenv-guard-issue/vendor/ruby/2.3.0', execute `gem env` for more information
+	from /home/bill/.rbenv/versions/2.3.1/lib/ruby/2.3.0/rubygems/dependency.rb:328:in `to_spec'
+	from /home/bill/.rbenv/versions/2.3.1/lib/ruby/2.3.0/rubygems/core_ext/kernel_gem.rb:65:in `gem'
+	from /home/bill/.rbenv/versions/2.3.1/bin/bundle:22:in `<main>'
+13:57:38 - ERROR - [0;31mFailed: "bundle exec rspec -f progress -r /home/bill/git/biinari/bundler-rbenv-guard-issue/vendor/ruby/2.3.0/gems/guard-rspec-4.7.0/lib/guard/rspec_formatter.rb -f Guard::RSpecFormatter --failure-exit-code 2  spec" (exit code: 1)[0m
+13:57:38 - INFO - Guard is now watching at '/home/bill/git/biinari/bundler-rbenv-guard-issue'
+[1] guard(main)> [0m[0m13:57:39 - INFO - Bye bye...
+]2;[RSpec results] Failed
+[0G]2;

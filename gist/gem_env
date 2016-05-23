@@ -1,0 +1,44 @@
+RubyGems Environment:
+  - RUBYGEMS VERSION: 2.5.1
+  - RUBY VERSION: 2.3.1 (2016-04-26 patchlevel 112) [x86_64-linux]
+  - INSTALLATION DIRECTORY: /home/bill/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0
+  - USER INSTALLATION DIRECTORY: /home/bill/.gem/ruby/2.3.0
+  - RUBY EXECUTABLE: /home/bill/.rbenv/versions/2.3.1/bin/ruby
+  - EXECUTABLE DIRECTORY: /home/bill/.rbenv/versions/2.3.1/bin
+  - SPEC CACHE DIRECTORY: /home/bill/.gem/specs
+  - SYSTEM CONFIGURATION DIRECTORY: /home/bill/.rbenv/versions/2.3.1/etc
+  - RUBYGEMS PLATFORMS:
+    - ruby
+    - x86_64-linux
+  - GEM PATHS:
+     - /home/bill/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0
+     - /home/bill/.gem/ruby/2.3.0
+  - GEM CONFIGURATION:
+     - :update_sources => true
+     - :verbose => true
+     - :backtrace => false
+     - :bulk_threshold => 1000
+     - "gem" => "--no-user-install --no-ri --no-rdoc"
+  - REMOTE SOURCES:
+     - https://rubygems.org/
+  - SHELL PATH:
+     - /home/bill/.rbenv/versions/2.3.1/bin
+     - /usr/lib/rbenv/libexec
+     - /home/bill/.rbenv/plugins/rbenv-binstubs/bin
+     - /home/bill/.rbenv/shims
+     - /home/bill/code/svn/fatsoma/platformcore/trunk/shell/bin
+     - /usr/local/heroku/bin
+     - /usr/local/sbin
+     - /usr/local/bin
+     - /usr/bin
+     - /opt/cuda/bin
+     - /usr/lib/jvm/default/bin
+     - /usr/bin/site_perl
+     - /usr/bin/vendor_perl
+     - /usr/bin/core_perl
+     - /usr/local/jdk/bin
+     - /home/bill/Downloads/android-sdk-linux/tools
+     - /home/bill/Downloads/android-sdk-linux/platform-tools
+     - /home/bill/.gem/ruby/2.1.0/bin
+     - /home/bill/bin
+     - /home/bill/code/go/bin
